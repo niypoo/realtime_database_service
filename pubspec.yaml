@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  firebase_database: ^11.0.4
+  firebase_database: ^10.3.0
   get: ^4.6.6
 
 dev_dependencies:
